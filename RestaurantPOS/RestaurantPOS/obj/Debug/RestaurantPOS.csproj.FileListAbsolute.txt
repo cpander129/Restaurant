@@ -1,0 +1,10 @@
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.exe.config
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.exe
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\bin\Debug\RestaurantPOS.pdb
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csprojAssemblyReference.cache
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Login.resources
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.Properties.Resources.resources
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.GenerateResource.cache
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.csproj.CoreCompileInputs.cache
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.exe
+D:\School\CSharp\Restaurant\RestaurantPOS\RestaurantPOS\obj\Debug\RestaurantPOS.pdb
